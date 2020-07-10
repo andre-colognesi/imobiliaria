@@ -19,7 +19,7 @@ class Database{
             $this->db = $conn;
             return true;
         }
-
+  
         echo $this->message;
         die;
     }
