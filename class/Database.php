@@ -1,5 +1,4 @@
 <?php
-
 class Database{
     private $host;
     private $database;
@@ -10,8 +9,9 @@ class Database{
     public $db;
     public function __construct()
     {
+        
         $this->host = "localhost";
-        $this->database = "";
+        $this->database = "real_state_db";
         $this->pass = "";
         $this->user = "root";
         $conn = $this->_connect();
@@ -24,10 +24,16 @@ class Database{
         die;
     }
 
+    public function getDatabaseName(){
+        return $this->database;
+    }
+
+
     private function _connect(){
         try{
         $conn = new \PDO('mysql:host='.$this->host.';dbname='.$this->database.'', $this->user, $this->pass);
         $this->message = "Conectado com sucesso";
+        $conn->setAttribute( PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION );
         return $conn;
         }catch(Exception $e){
             $this->error = true;

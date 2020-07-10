@@ -1,9 +1,4 @@
-<?= include_once "includes/header.php" ?>
-<form>
-    <div class="row">
-
-    </div>
-</form>
+<?php include_once "includes/header.php"; ?>
 
 
-<?= include_once "includes/footer.php" ?>
+<?php include_once "includes/footer.php"; ?>

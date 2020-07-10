@@ -1,22 +1,28 @@
 <?php
-require "Database.php";
-class User{
-    private $table = 'users';
-    private $pk = 'user_id';
+require "BaseModel.php";
+class User extends BaseModel{
+    public $table = 'users';
+    public $pk = 'user_id';
     public function createUser(array $user)
     {
-     $con = new Database();
-     $sql = "INSERT INTO ".$this->table." (email,password,name,created_at,active) VALUES(:email,:password,:name,now(),'yes')";
-     $execute = $con->db->prepare($sql);
-     $execute->execute(array(
-         ":name" => $user['name'],
-         ":password" => $user['password'],
-         ":email" => $user['email'],
-     ));
-     if($execute->rowCount() > 0){
-         return true;
-     }   
-     
-     return false;
+
+        if($this->insert($user)){
+            return true;
+        }
+
+            return false;
+
+
     }
+
+    public function login($arr){
+        $where = array(
+            0 => "email='".$arr['email']."'",
+            1 => "password='".$arr['password']."'"
+        );
+         return $this->selectAll($where);
+        
+    }
+    
+    
 }
