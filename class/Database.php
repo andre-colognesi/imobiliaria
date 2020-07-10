@@ -11,10 +11,17 @@ class Database{
     public function __construct()
     {
         $this->host = "localhost";
-        $this->database = "real_state_db";
+        $this->database = "";
         $this->pass = "";
         $this->user = "root";
-        $this->db = $this->_connect();
+        $conn = $this->_connect();
+        if($conn){
+            $this->db = $conn;
+            return true;
+        }
+
+        echo $this->message;
+        die;
     }
 
     private function _connect(){
