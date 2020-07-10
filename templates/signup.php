@@ -6,7 +6,7 @@ $user = new User();
 if($user->createUser($_POST)){
     Session::addMsg('Usuário criado com sucesso');
 }else{
-    Session::addMsg('Usuário criado com sucesso','warning');
+    Session::addMsg('Ocorreu um erro ao criar o usuário','danger');
 }
 
 header('Location: ' . getenv('INDEX').'templates/login.php');
