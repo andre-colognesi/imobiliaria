@@ -1,4 +1,3 @@
-<?= $this->include('header') ?>
 
   <div class="container">
    <form class="form-group" action="teste" method="post">
@@ -8,4 +7,3 @@
     </div>
   
    </div>
-    <?= $this->include('footer'); ?>

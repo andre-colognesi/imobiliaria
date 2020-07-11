@@ -5,7 +5,7 @@ namespace app\controller{
         public $auth;
         public $dataUrl = array();
         public $breadcrumbs = [];
-        
+        public $title;
 
         public function __CONSTRUCT(){
             $this->breadcrumbs[] = array(
@@ -38,7 +38,9 @@ namespace app\controller{
                 if(isset($arr)){
                     extract($arr);
                 }
+                include_once PATH.DS.'app'.DS.'view'.DS."header.php";
                 include_once $view;
+                include_once PATH.DS.'app'.DS.'view'.DS."footer.php";
             }
         }      
         
