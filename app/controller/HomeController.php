@@ -10,7 +10,8 @@ namespace app\controller{
     }
 
     public function home(){
-       $this->render('home_view');
+        $this->title = 'Home';
+        $this->render('home_view');
     }
 
 }

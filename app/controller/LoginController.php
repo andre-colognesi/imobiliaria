@@ -7,6 +7,7 @@ class LoginController extends Controller
     
     
     public function displayLogin(){
+        $this->title = 'Logar';
         $session = new Session();
         if($session->auth()){
             header("location: ".getenv("URL")."home");
@@ -22,6 +23,7 @@ class LoginController extends Controller
     }
 
     public function displayRegister(){
+        $this->title = 'Cadastrar';
         $session = new Session();
         if($session->auth()){
             header("location: ".getenv("URL")."home");

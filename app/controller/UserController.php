@@ -16,6 +16,7 @@ namespace app\controller{
         $this->addBread("Configurações","");
         $user = new Users($_SESSION["USER_ID"]);
         $user = $user->getConfig();
+        $this->title = 'Alterar seus dados';
         $this->render("user/settings",compact('user'));
 
     }
