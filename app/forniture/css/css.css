@@ -1,0 +1,23 @@
+.navbar{
+    background-color:#2c3b54 !important;
+    color: white;
+}
+
+.navbar a{
+    color: white !important;
+    font-size: 19px !important;
+}
+
+.navbar a:hover{
+    text-decoration: underline !important;
+    color: #a6c5e2fa !important;
+}
+
+.navbar .dropdown-menu{
+    background-color: white !important;
+    
+}
+
+.navbar .dropdown-menu a{
+    color: black !important;
+}

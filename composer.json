@@ -1,0 +1,7 @@
+{
+    "name": "vendor/meu-mvc",
+    "description": "MVC pessoal",
+    "require": {
+        "google/auth" : "v1.5.1"
+    }
+}

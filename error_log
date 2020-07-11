@@ -1,0 +1,697 @@
+[26-Jun-2020 01:16:49 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:16:49 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:16:49 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 7
+[26-Jun-2020 01:16:49 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:16:49 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:16:49 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 7
+[26-Jun-2020 01:17:17 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:17 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:45 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:45 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:45 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 6
+[26-Jun-2020 01:17:46 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:46 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:17:46 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 6
+[26-Jun-2020 01:19:15 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:15 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:15 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 6
+[26-Jun-2020 01:19:16 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:16 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:16 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 6
+[26-Jun-2020 01:19:17 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:17 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:17 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Request' not found in /home/lqquivjnyctl/public_html/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 6
+[26-Jun-2020 01:19:25 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:25 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:29 UTC] PHP Warning:  include_once(app/Bootstrap.php): failed to open stream: No such file or directory in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:19:29 UTC] PHP Warning:  include_once(): Failed opening 'app/Bootstrap.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/lqquivjnyctl/public_html/index.php on line 4
+[26-Jun-2020 01:25:52 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:25:59 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:26:01 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:27:38 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:27:40 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:28:16 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:39:41 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:39:41 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:52:34 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:52:34 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 8
+[26-Jun-2020 01:52:52 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 01:53:45 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 01:53:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\web\Rota::showRotas() in /home/lqquivjnyctl/public_html/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 22
+[26-Jun-2020 01:53:47 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 01:53:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\web\Rota::showRotas() in /home/lqquivjnyctl/public_html/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/lqquivjnyctl/public_html/index.php on line 22
+[26-Jun-2020 01:54:13 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 01:55:22 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 01:55:27 UTC] PHP Notice:  Undefined offset: 2 in /home/lqquivjnyctl/public_html/index.php on line 9
+[26-Jun-2020 02:44:23 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(79): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(14): app\model\Users::login(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->login(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(21): app\web\Rota->execRota('/check-login')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[26-Jun-2020 02:44:44 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(79): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(14): app\model\Users::login(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->login(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(21): app\web\Rota->execRota('/check-login')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[27-Jun-2020 18:24:35 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(79): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(14): app\model\Users::login(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->login(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(21): app\web\Rota->execRota('/check-login')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[27-Jun-2020 18:43:09 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(41): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(24): app\model\Users::createUser(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(21): app\web\Rota->execRota('/criar-usuario')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[27-Jun-2020 19:58:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(41): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[27-Jun-2020 20:14:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:16:43 UTC] PHP Parse error:  syntax error, unexpected ''Ocorreu um erro de conex' (T_ENCAPSED_AND_WHITESPACE) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 23
+[27-Jun-2020 20:17:56 UTC] PHP Parse error:  syntax error, unexpected ''Ocorreu um erro de conex' (T_ENCAPSED_AND_WHITESPACE) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:21:10 UTC] PHP Parse error:  syntax error, unexpected ''Ocorreu um erro de conex' (T_ENCAPSED_AND_WHITESPACE) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:21:23 UTC] PHP Parse error:  syntax error, unexpected ''Ocorreu um erro de conex' (T_ENCAPSED_AND_WHITESPACE) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:21:38 UTC] PHP Parse error:  syntax error, unexpected ''Ocorreu um erro de conex' (T_ENCAPSED_AND_WHITESPACE) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 22
+[27-Jun-2020 20:24:40 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:17
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(17): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(27): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(41): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 17
+[27-Jun-2020 20:26:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:26:45 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:26:49 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:27:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:29:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'andre'@'localhost' (using password: YES) in /home/lqquivjnyctl/public_html/app/config/database/Database.php:18
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(18): PDO->__construct('mysql:host=loca...', 'andre', 'C@l!f0rn!@as')
+#1 /home/lqquivjnyctl/public_html/app/config/database/Database.php(29): app\config\database\Database->_connect()
+#2 /home/lqquivjnyctl/public_html/app/model/Users.php(41): app\config\database\Database::connect()
+#3 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#4 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#5 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#6 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 18
+[27-Jun-2020 20:29:32 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:29:49 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:29:59 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:30:14 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 21
+[27-Jun-2020 20:31:58 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Users.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Users.php(29): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Users.php(54): app\model\Users->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/LoginController.php(26): app\model\Users::createUser(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\LoginController->register(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(20): app\web\Rota->execRota('/criar-usuario')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Users.php on line 29
+[27-Jun-2020 20:32:55 UTC] PHP Notice:  Undefined index: user_id in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 28
+[27-Jun-2020 20:32:55 UTC] PHP Notice:  Undefined index: avatar in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 33
+[27-Jun-2020 20:34:19 UTC] PHP Notice:  Undefined index: user_id in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 28
+[27-Jun-2020 20:34:19 UTC] PHP Notice:  Undefined index: avatar in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 33
+[27-Jun-2020 20:48:58 UTC] PHP Deprecated:  Non-static method app\config\session\Session::addMsg() should not be called statically in /home/lqquivjnyctl/public_html/app/model/Users.php on line 45
+[27-Jun-2020 20:49:36 UTC] PHP Notice:  Undefined variable: param in /home/lqquivjnyctl/public_html/app/model/Users.php on line 69
+[27-Jun-2020 20:53:45 UTC] PHP Deprecated:  Non-static method app\config\session\Session::addMsg() should not be called statically in /home/lqquivjnyctl/public_html/app/model/Users.php on line 45
+[27-Jun-2020 21:58:28 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:58:33 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:58:36 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:58:38 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:58:48 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:58:57 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:59:13 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:59:42 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:59:43 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:59:54 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 21:59:57 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 22:01:48 UTC] PHP Parse error:  syntax error, unexpected '"', expecting ')' in /home/lqquivjnyctl/public_html/app/config/session/Session.php on line 37
+[27-Jun-2020 22:03:14 UTC] PHP Fatal error:  Uncaught Exception: Request Token Dont Match in /home/lqquivjnyctl/public_html/app/web/Request.php:38
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/web/Request.php(13): app\web\Request->checkToken('asasa')
+#1 /home/lqquivjnyctl/public_html/app/controller/UserController.php(40): app\web\Request->__CONSTRUCT(Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\UserController->updateUser(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(21): app\web\Rota->execRota('/atualizar-usua...')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/Request.php on line 38
+[27-Jun-2020 23:55:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/lqquivjnyctl/public_html/app/controller/LoginController.php on line 11
+[28-Jun-2020 00:17:33 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 25
+[28-Jun-2020 00:24:37 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 25
+[28-Jun-2020 00:25:07 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 23
+[28-Jun-2020 00:25:09 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 23
+[28-Jun-2020 00:25:59 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 23
+[28-Jun-2020 00:26:16 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 23
+[28-Jun-2020 00:26:24 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 23
+[28-Jun-2020 00:27:54 UTC] PHP Fatal error:  Uncaught Error: Class 'app\controller\MoviesController' not found in /home/lqquivjnyctl/public_html/app/web/Rota.php:28
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#1 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/Rota.php on line 28
+[28-Jun-2020 00:29:10 UTC] PHP Parse error:  syntax error, unexpected '{', expecting ')' in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 10
+[28-Jun-2020 00:29:34 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:5
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 5
+[28-Jun-2020 00:33:28 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:5
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 5
+[28-Jun-2020 00:33:36 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:5
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 5
+[28-Jun-2020 00:33:37 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:5
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 5
+[28-Jun-2020 00:35:11 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:6
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 6
+[28-Jun-2020 00:35:12 UTC] PHP Fatal error:  Uncaught Error: Class 'App\Model\Model' not found in /home/lqquivjnyctl/public_html/app/model/Movies.php:6
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/Autoload.php(13): include_once()
+#1 [internal function]: Autoload::loader('app\\model\\Movie...')
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(18): spl_autoload_call('app\\model\\Movie...')
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 6
+[28-Jun-2020 00:35:53 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to app\config\database\Database::select() must be of the type array, string given, called in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 10 and defined in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Movies.php(10): app\config\database\Database->select('*', 'movies')
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[28-Jun-2020 00:35:54 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to app\config\database\Database::select() must be of the type array, string given, called in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 10 and defined in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Movies.php(10): app\config\database\Database->select('*', 'movies')
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[28-Jun-2020 00:36:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\config\database\Database::get() in /home/lqquivjnyctl/public_html/app/model/Movies.php:10
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 10
+[28-Jun-2020 00:37:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\config\database\Database::get() in /home/lqquivjnyctl/public_html/app/model/Movies.php:11
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 11
+[28-Jun-2020 00:41:53 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yes' in 'where clause' in /home/lqquivjnyctl/public_html/app/config/database/Database.php:83
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(83): PDO->query('SELECT * FROM m...')
+#1 /home/lqquivjnyctl/public_html/app/model/Movies.php(11): app\config\database\Database->fetchQuery()
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 83
+[28-Jun-2020 00:41:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yes' in 'where clause' in /home/lqquivjnyctl/public_html/app/config/database/Database.php:83
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(83): PDO->query('SELECT * FROM m...')
+#1 /home/lqquivjnyctl/public_html/app/model/Movies.php(11): app\config\database\Database->fetchQuery()
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 83
+[28-Jun-2020 00:42:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function app\config\database\Database::where(), 1 passed in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 11 and exactly 3 expected in /home/lqquivjnyctl/public_html/app/config/database/Database.php:56
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Movies.php(11): app\config\database\Database->where('active=yes')
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 56
+[28-Jun-2020 00:43:46 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'yes' in 'where clause' in /home/lqquivjnyctl/public_html/app/config/database/Database.php:83
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(83): PDO->query('SELECT * FROM m...')
+#1 /home/lqquivjnyctl/public_html/app/model/Movies.php(11): app\config\database\Database->fetchQuery()
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(19): app\model\Movies->getAllMovies()
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->all(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(22): app\web\Rota->execRota('/filmes')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 83
+[28-Jun-2020 01:08:36 UTC] PHP Notice:  Undefined property: stdClass::$movie_id in /home/lqquivjnyctl/public_html/app/view/movies/movies.php on line 23
+[28-Jun-2020 03:16:44 UTC] PHP Parse error:  syntax error, unexpected '"?>criar-filme"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/lqquivjnyctl/public_html/app/view/movies/movies.php on line 10
+[28-Jun-2020 03:50:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\controller\MoviesController::add-form() in /home/lqquivjnyctl/public_html/app/web/Rota.php:30
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/index.php(23): app\web\Rota->execRota('/adicionar-film...')
+#1 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/Rota.php on line 30
+[28-Jun-2020 04:09:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 33
+[28-Jun-2020 04:13:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\model\Movies::create() in /home/lqquivjnyctl/public_html/app/model/Movies.php:29
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(31): app\model\Movies->createMovie(Array)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->create(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(24): app\web\Rota->execRota('/filmes/criar')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 29
+[28-Jun-2020 04:17:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 34
+[28-Jun-2020 04:17:29 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 34
+[28-Jun-2020 04:17:37 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 34
+[28-Jun-2020 19:42:54 UTC] PHP Warning:  unlink(/home/lqquivjnyctl/public_html/app/upload/images/avatar/18/): Is a directory in /home/lqquivjnyctl/public_html/app/web/File.php on line 59
+[28-Jun-2020 19:42:54 UTC] PHP Fatal error:  Uncaught Exception: Error deleting file in /home/lqquivjnyctl/public_html/app/web/File.php:60
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/UserController.php(34): app\web\File->deleteFile('/home/lqquivjny...')
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\UserController->updateUser(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(24): app\web\Rota->execRota('/atualizar-usua...')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/File.php on line 60
+[28-Jun-2020 19:44:12 UTC] PHP Warning:  unlink(/home/lqquivjnyctl/public_html/app/upload/images/avatar/18/): Is a directory in /home/lqquivjnyctl/public_html/app/web/File.php on line 59
+[28-Jun-2020 19:44:12 UTC] PHP Fatal error:  Uncaught Exception: Error deleting file in /home/lqquivjnyctl/public_html/app/web/File.php:60
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/UserController.php(34): app\web\File->deleteFile('/home/lqquivjny...')
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\UserController->updateUser(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(24): app\web\Rota->execRota('/atualizar-usua...')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/File.php on line 60
+[28-Jun-2020 19:47:23 UTC] PHP Warning:  unlink(/home/lqquivjnyctl/public_html/app/upload/images/avatar/18/): Is a directory in /home/lqquivjnyctl/public_html/app/web/File.php on line 59
+[28-Jun-2020 19:47:23 UTC] PHP Fatal error:  Uncaught Exception: Error deleting file in /home/lqquivjnyctl/public_html/app/web/File.php:60
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/UserController.php(34): app\web\File->deleteFile('/home/lqquivjny...')
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\UserController->updateUser(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(24): app\web\Rota->execRota('/atualizar-usua...')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/File.php on line 60
+[28-Jun-2020 20:21:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 36
+[28-Jun-2020 20:25:13 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 36
+[28-Jun-2020 20:36:22 UTC] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 30
+[28-Jun-2020 20:45:10 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/lqquivjnyctl/public_html/app/model/Movies.php on line 48
+[28-Jun-2020 20:50:05 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/model/Model.php on line 18
+[28-Jun-2020 20:50:40 UTC] PHP Parse error:  syntax error, unexpected 'id' (T_STRING), expecting function (T_FUNCTION) or const (T_CONST) in /home/lqquivjnyctl/public_html/app/model/Model.php on line 18
+[28-Jun-2020 21:28:28 UTC] PHP Notice:  Undefined variable: movie in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 35
+[28-Jun-2020 21:28:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function createMovie() on null in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php:35
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->create(Array)
+#1 /home/lqquivjnyctl/public_html/index.php(24): app\web\Rota->execRota('/filmes/criar')
+#2 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 35
+[28-Jun-2020 22:40:04 UTC] PHP Parse error:  syntax error, unexpected ')', expecting variable (T_VARIABLE) in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 47
+[28-Jun-2020 23:01:31 UTC] PHP Fatal error:  Uncaught Error: Class 'app\web\Comments' not found in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php:51
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#1 /home/lqquivjnyctl/public_html/index.php(25): app\web\Rota->execRota('/filme/{id}/cri...')
+#2 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 51
+[28-Jun-2020 23:01:57 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 13
+[28-Jun-2020 23:02:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'active' in 'field list' in /home/lqquivjnyctl/public_html/app/model/Model.php:81
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Model.php(81): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(15): app\model\Model->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(52): app\model\Comments->createComment(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(25): app\web\Rota->execRota('/filme/{id}/cri...')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 81
+[29-Jun-2020 00:49:31 UTC] PHP Notice:  Undefined index: USER_ID in /home/lqquivjnyctl/public_html/app/controller/UserController.php on line 17
+[29-Jun-2020 00:49:32 UTC] PHP Notice:  Undefined index: REQUEST_TOKEN in /home/lqquivjnyctl/public_html/app/controller/Controller.php on line 27
+[29-Jun-2020 00:58:23 UTC] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/lqquivjnyctl/public_html/app/model/Model.php:103
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(53): app\model\Model::read(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 103
+[29-Jun-2020 00:59:02 UTC] PHP Notice:  Undefined variable: self in /home/lqquivjnyctl/public_html/app/model/Model.php on line 103
+[29-Jun-2020 00:59:02 UTC] PHP Fatal error:  Uncaught Error: Class name must be a valid object or a string in /home/lqquivjnyctl/public_html/app/model/Model.php:103
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(53): app\model\Model::read(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 103
+[29-Jun-2020 00:59:14 UTC] PHP Fatal error:  Uncaught Error: Undefined class constant 'table' in /home/lqquivjnyctl/public_html/app/model/Model.php:103
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(53): app\model\Model::read(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 103
+[29-Jun-2020 01:10:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::select() in /home/lqquivjnyctl/public_html/app/model/Comments.php:25
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 25
+[29-Jun-2020 01:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function app\model\select() in /home/lqquivjnyctl/public_html/app/model/Comments.php:24
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 24
+[29-Jun-2020 01:12:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\model\Comments::select() in /home/lqquivjnyctl/public_html/app/model/Comments.php:24
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#1 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#2 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#3 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 24
+[29-Jun-2020 01:14:06 UTC] PHP Fatal error:  Uncaught TypeError: Argument 1 passed to app\config\database\Database::select() must be of the type array, string given, called in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 25 and defined in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Comments.php(25): app\config\database\Database->select('SELECT * FROM c...')
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[29-Jun-2020 01:14:31 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function app\config\database\Database::select(), 1 passed in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 25 and at least 2 expected in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Comments.php(25): app\config\database\Database->select(Array)
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[29-Jun-2020 01:17:19 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function app\config\database\Database::select(), 1 passed in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 25 and at least 2 expected in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Comments.php(25): app\config\database\Database->select(Array)
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[29-Jun-2020 01:17:21 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function app\config\database\Database::select(), 1 passed in /home/lqquivjnyctl/public_html/app/model/Comments.php on line 25 and at least 2 expected in /home/lqquivjnyctl/public_html/app/config/database/Database.php:45
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Comments.php(25): app\config\database\Database->select(Array)
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 45
+[29-Jun-2020 01:20:26 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT * FROM comments c inner join users u on c.created_by = u.user_id FROM com' at line 1 in /home/lqquivjnyctl/public_html/app/config/database/Database.php:83
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(83): PDO->query('SELECT SELECT *...')
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(25): app\config\database\Database->fetchQuery()
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 83
+[29-Jun-2020 01:22:16 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM comments c inner join users u on c.created_by = u.user_id WHERE c.movie_id=' at line 1 in /home/lqquivjnyctl/public_html/app/config/database/Database.php:83
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/config/database/Database.php(83): PDO->query('SELECT  c.comme...')
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(26): app\config\database\Database->fetchQuery()
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(58): app\model\Comments->getMovieComments(1)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/config/database/Database.php on line 83
+[29-Jun-2020 01:28:57 UTC] PHP Notice:  Undefined variable: re in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 22
+[29-Jun-2020 01:57:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 46
+[29-Jun-2020 02:12:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:28
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 28
+[29-Jun-2020 02:13:01 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:28
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 28
+[29-Jun-2020 02:22:50 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:26
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 26
+[29-Jun-2020 02:23:23 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:26
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(26): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 26
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:40:44 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:19 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:57 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:57 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:57 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:57 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:57 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Undefined variable: m in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 02:42:58 UTC] PHP Notice:  Trying to get property 'comment_id' of non-object in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:08:04 UTC] PHP Fatal error:  Uncaught Error: Class 'app\controller\Comment' not found in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php:73
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->replyComment(Array)
+#1 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/comentario/{id...')
+#2 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/controller/MoviesController.php on line 73
+[29-Jun-2020 03:11:48 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:11:48 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:11:48 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:11:49 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:11:49 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:11:49 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:13:04 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:15:16 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 38
+[29-Jun-2020 03:17:21 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 39
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 41
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 41
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 40
+[29-Jun-2020 03:18:47 UTC] PHP Notice:  Undefined property: stdClass::$comment_id in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 41
+[29-Jun-2020 04:23:40 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:25
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 25
+[29-Jun-2020 04:24:16 UTC] PHP Fatal error:  Uncaught Error: Cannot use object of type stdClass as array in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php:25
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/controller/Controller.php(41): include_once()
+#1 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(59): app\controller\Controller->render('movies/show-mov...', Array)
+#2 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->read(Array)
+#3 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}')
+#4 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/view/movies/show-movie.php on line 25
+[30-Jun-2020 00:44:54 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\x9C' for column 'comment' at row 1 in /home/lqquivjnyctl/public_html/app/model/Model.php:81
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Model.php(81): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(15): app\model\Model->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(65): app\model\Comments->createComment(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}/cri...')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 81
+[30-Jun-2020 00:44:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\x9C' for column 'comment' at row 1 in /home/lqquivjnyctl/public_html/app/model/Model.php:81
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Model.php(81): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(15): app\model\Model->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(65): app\model\Comments->createComment(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}/cri...')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 81
+[30-Jun-2020 00:45:07 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\x9C' for column 'comment' at row 1 in /home/lqquivjnyctl/public_html/app/model/Model.php:81
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Model.php(81): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(15): app\model\Model->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(65): app\model\Comments->createComment(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}/cri...')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 81
+[30-Jun-2020 00:45:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1366 Incorrect string value: '\xF0\x9F\x92\x9C' for column 'comment' at row 1 in /home/lqquivjnyctl/public_html/app/model/Model.php:81
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/app/model/Model.php(81): PDOStatement->execute(Array)
+#1 /home/lqquivjnyctl/public_html/app/model/Comments.php(15): app\model\Model->insert(Array)
+#2 /home/lqquivjnyctl/public_html/app/controller/MoviesController.php(65): app\model\Comments->createComment(Array)
+#3 /home/lqquivjnyctl/public_html/app/web/Rota.php(30): app\controller\MoviesController->createComment(Array)
+#4 /home/lqquivjnyctl/public_html/index.php(27): app\web\Rota->execRota('/filme/{id}/cri...')
+#5 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/model/Model.php on line 81
+[05-Jul-2020 22:42:43 UTC] PHP Parse error:  syntax error, unexpected '?>' in /home/lqquivjnyctl/public_html/app/view/abnt/abnt-form.php on line 46
+[05-Jul-2020 22:49:18 UTC] PHP Notice:  Undefined index: formated-reference in /home/lqquivjnyctl/public_html/app/view/abnt/abnt-form.php on line 46
+[05-Jul-2020 22:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method app\controller\AbntController::format() in /home/lqquivjnyctl/public_html/app/web/Rota.php:30
+Stack trace:
+#0 /home/lqquivjnyctl/public_html/index.php(29): app\web\Rota->execRota('/formatar')
+#1 {main}
+  thrown in /home/lqquivjnyctl/public_html/app/web/Rota.php on line 30
