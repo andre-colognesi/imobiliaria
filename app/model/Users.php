@@ -75,7 +75,6 @@ namespace app\model{
             $data = array(
                 "name"  => $request->name,
                 "email" => $request->email,
-                "avatar" => $fileName
             );
             if(!$this->update($id,$data)){
                 return false;
