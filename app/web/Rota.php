@@ -18,9 +18,10 @@ class Rota
     }
     public function execRota($url){
         $url = $this->validUrl($url);
+        //die($url);
         foreach($this->_rotas as $index)
         {
-            if($index['url'] == $url){
+            if($index['url']."/" == $url || $index['url']."/" == $url."/"){
                 if($index['method'] == $_SERVER['REQUEST_METHOD']){
                     $controllers = $index['controller'];
                     $controllers = explode("@",$controllers);

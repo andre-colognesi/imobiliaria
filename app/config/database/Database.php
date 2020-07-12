@@ -19,7 +19,7 @@ namespace app\config\database{
             $con->setAttribute(\PDO::ATTR_ERRMODE, \PDO::ERRMODE_EXCEPTION);
             $this->is_connected = true;
             return $con;
-            }catch(Exception $e){
+            }catch(\Exception $e){
                 echo 'Ocorreu um erro de conexão: '.$e->getMessage();
             }
         }

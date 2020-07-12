@@ -27,5 +27,10 @@ $rota->addRota('POST','criar-usuario','LoginController@register');
 $rota->addRota('GET','logout','LoginController@logout');
 $rota->addRota('GET','configuracao','UserController@userConfig');
 $rota->addRota('POST','atualizar-usuario','UserController@updateUser');
+$rota->addRota('GET','imovel/novo','PropertieController@createForm');
+$rota->addRota('POST','imovel/criar','PropertieController@addPropertie');
+$rota->addRota('GET','imoveis',"PropertieController@allProperties");
+$rota->addRota('GET','imovel/{id}',"PropertieController@getPropertie");
+$rota->addRota('POST','imovel/{id}/atualizar',"PropertieController@updatePropertie");
 $rota->execRota($sanitzer->getUrl());
 

@@ -33,7 +33,6 @@ class LoginController extends Controller
 
     public function register(){
        $res =  Users::createUser($_POST);
-       
         if(!$res){
             header("location: ".getenv('URL')."cadastrar-login");
         }
