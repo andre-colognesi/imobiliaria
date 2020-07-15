@@ -1,6 +1,9 @@
 <?php
 namespace app\config\database{
-    include_once 'app/Bootstrap.php';
+
+use stdClass;
+
+include_once 'app/Bootstrap.php';
     class Database{
         protected $host;
         protected $db;
@@ -29,6 +32,16 @@ namespace app\config\database{
             return $db->_connect();
         }
 
+        public static function fetch($query,$count = false){
+            $db = self::connect();
+            $select = $db->query($query);
+            if($count){
+                return $select->rowCount();
+            }
+            return $select->fetchAll(\PDO::FETCH_CLASS);
+
+        }
+
         public static function init(){
             return new Database();
         }
@@ -49,8 +62,7 @@ namespace app\config\database{
             $this->setQuery($query);
             return $this;
         }
-    
- 
+
 
         public function where($where,$definiton,$value){
             $where = $where.$definiton.$value;
@@ -86,11 +98,28 @@ namespace app\config\database{
             $res    = $select->fetchAll(\PDO::FETCH_CLASS);
             return $res;
         }
+
+
     
+        public function orderBy($column = 1,$order = 'DESC'){
+        $query = $this->getQuery();
+        $query .= " ORDER BY ".$column . " " . $order;
+        $this->setQuery($query);
+        return $this;
+        }
+
         public function paginate($limit){
             $query  = $this->getQuery();
             $total  = $this->fetchQuery(true);
+            if($total <= 0){
+                $res = array();
+                $res[0] = new stdClass();
+            }
+
             $pages  = ceil($total / $limit);
+            if($pages <= 0 ){
+                $pages = 1;
+            }
             $page = 1;
             if(isset($_GET['page']) && !empty($_GET['page'])){
                 $page   = filter_var($_GET['page'],FILTER_VALIDATE_INT);
@@ -102,14 +131,14 @@ namespace app\config\database{
             if($page > $pages){
                 $page = $pages;
             }
-    
+            
             $offset = ($page - 1) * $limit;
             $paginate = " LIMIT " . $limit . " OFFSET ". $offset;
             $query = $query . $paginate;
+            $_SESSION['query'] = $query;
             $this->setQuery($query);
             $res = $this->fetchQuery();
-         
-            $res[0]->pages = $pages;
+            $_SESSION['pages'] = $pages;
             return $res;
             }
     }
