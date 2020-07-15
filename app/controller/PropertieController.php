@@ -2,7 +2,9 @@
 namespace app\controller{
     use app\model\Propertie as Propertie;
     use app\config\session\Session as Session;
-    class PropertieController extends Controller
+    use ReflectionClass;
+
+class PropertieController extends Controller
 {
 
     public function __CONSTRUCT(){
@@ -31,14 +33,18 @@ namespace app\controller{
     }
 
     public function allProperties(){
+        $this->title = 'Todos os Imóveis';
         $propertie = new Propertie();
-        print_p($propertie->simpleList());
-
+        $where = array();
+        $this->filter("propertie_id","=");
+        $this->filter("propertie_street","like",true);
+        $list = $propertie->simpleList($this->filter);
         $this->render('imoveis/imoveis-list',compact('list'));
     }
 
     public function getPropertie($id){
         $Propertie = new Propertie();
+        $this->title = 'Editar Imóvel ' . $id[0];
         $propertie = $Propertie->read($id[0]);
         $this->addBread('Editar Imovel '.$id[0],"");
         $this->render('imoveis/imoveis-form-update',compact('propertie'));
@@ -56,8 +62,25 @@ namespace app\controller{
             Session::addMsg('Ocorreu um erro ao atualizar','danger');
             header('location: '.$_SERVER['HTTP_REFERER']);
             return false;
+    }
 
-
+    public function factory(){
+        for($i = 0; $i <= 150; $i++){
+            $data['propertie_neighborhood'] = "Bairro teste ".$i;
+            $data['propertie_street'] = 'Rua teste '.$i;
+            $data['propertie_zip_code'] = $i;
+            $data['propertie_number'] = $i;
+            $data['propertie_state'] = "estado teste ".$i;
+            $propertie = new Propertie();
+            if($propertie->insert($data)){
+                continue;
+            }
+            if($i == 150){
+                exit;
+            }
+        }
+        Session::addMsg('Foram inseridos '.$i.' proprierdades','success');
+        $this->redirectBack();
     }
 
 

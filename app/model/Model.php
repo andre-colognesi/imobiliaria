@@ -182,11 +182,50 @@ namespace app\model{
         }
         return false;
     }
-    
-    public function orderBy($column, $order){
-        $query = $this->getQuery();
-        $query = $query . ' ORDER BY '. $column . ' ' . $order;
-        $this->setQuery($query);
+
+    public function simplePagination($query,$limit){
+            $total  = Database::fetch($query,true);
+            $pages  = ceil($total / $limit);
+            if($pages <= 0 ){
+                $pages = 1;
+            }
+            $page = 1;
+            if(isset($_GET['page']) && !empty($_GET['page'])){
+                $page   = filter_var($_GET['page'],FILTER_VALIDATE_INT);
+                $page   = filter_var($page,FILTER_VALIDATE_INT);
+            }
+            if(empty($page) || $page == ""){
+                $page = 1;
+            }
+            if($page > $pages){
+                $page = $pages;
+            }
+            
+            $offset = ($page - 1) * $limit;
+            $paginate = " LIMIT " . $limit . " OFFSET ". $offset;
+            $query = $query . $paginate;
+            $res = Database::fetch($query);
+            $_SESSION['query'] = $query;
+            $_SESSION['pages'] = $pages;
+            return $res;
+    }
+
+    public function simpleList(array $wheres = null, $orderBy = '1 DESC'){
+        $query = "SELECT * FROM ".$this->table." where active = 'yes'";
+        $where = array();
+        if($wheres){
+            foreach ($wheres as $key) {
+                $where[] .= implode(" ",$key);
+            }
+
+            if($where){
+                
+                $query .= " and " .implode(" and ",$where);
+            }
+        }
+        $query .= " ORDER BY " .$orderBy;
+        $res = $this->simplePagination($query,250);
+        return $res;
     }
 
 

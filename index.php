@@ -32,5 +32,6 @@ $rota->addRota('POST','imovel/criar','PropertieController@addPropertie');
 $rota->addRota('GET','imoveis',"PropertieController@allProperties");
 $rota->addRota('GET','imovel/{id}',"PropertieController@getPropertie");
 $rota->addRota('POST','imovel/{id}/atualizar',"PropertieController@updatePropertie");
+$rota->addRota('GET','factory','PropertieController@factory');
 $rota->execRota($sanitzer->getUrl());
 
